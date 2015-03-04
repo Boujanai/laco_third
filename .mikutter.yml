@@ -1,0 +1,9 @@
+---
+slug: :laco_third
+depends:
+  mikutter: 0.2.2.1264
+  plugin: []
+version: '1.0'
+author: Boujanai
+name: laco_third
+description: 追従型「らこらこらこ～ｗ」プラグイン
